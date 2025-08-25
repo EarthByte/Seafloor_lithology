@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>GMT KML Document</name>
+	<GroundOverlay>
+		<name>GMT Image Overlay</name>
+		<Icon>
+			<href>seabed_lithology_v1.png</href>
+		</Icon>
+		<altitudeMode>clampToGround</altitudeMode>
+		<LatLonBox>
+			<north>90.000000</north>
+			<south>-90.000000</south>
+			<east>180.000000</east>
+			<west>-180.000000</west>
+		</LatLonBox>
+		<Region>
+		<LatLonAltBox>
+			<north>90.000000</north>
+			<south>-90.000000</south>
+			<east>180.000000</east>
+			<west>-180.000000</west>
+		</LatLonAltBox>
+		</Region>
+	</GroundOverlay>
+</Document>
+</kml>
